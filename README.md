@@ -35,6 +35,8 @@ Foi criado duas merges , conteudo (simular uma equipe responsável pelo html) e 
 ---
 
 ### Branch Main depois do merge
+![main](./prints/main2.png)
 
+note a adição do : **Link css e  html**
 
 
