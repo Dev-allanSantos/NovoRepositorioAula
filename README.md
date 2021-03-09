@@ -3,6 +3,12 @@ Teste para praticar
 
 ![License](https://img.shields.io/github/license/allan-gh/NovoRepositorioAula)
 
+<p align="center"> 
+    <a href="#Tecnologias"> Tecnologias ° </a>
+    <a href="#Desenvolvimento"> Desenvolvimento ° </a>
+    
+</p>
+
 ---
 
 Este repositório consiste em um teste para praticar alguns conceitos relacionados a Git e GitHub:
