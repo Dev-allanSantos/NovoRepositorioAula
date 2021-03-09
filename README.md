@@ -48,4 +48,4 @@ note a adição do : **Link css e  html**
 
 ## Página
 
-confira a página web feita nesse repositório : [página](https://allan-gh.github.io/NovoRepositorioAula/site/Index.html target="_blank")
+confira a página web feita nesse repositório : [página](https://allan-gh.github.io/NovoRepositorioAula/site/Index.html)
