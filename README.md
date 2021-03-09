@@ -19,3 +19,8 @@ Para realizar o versionamento foi utilizado :
 
 ## Desenvolvimento
 Foi criado duas merges , conteudo (simular uma equipe responsável pelo html) e design (equipe responsável pelo css) e depois um merge para a branch main
+
+1. Código da branch main antes do merge
+
+![Main](./prints/main.png)
+
