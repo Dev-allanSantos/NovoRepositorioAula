@@ -5,7 +5,7 @@ Teste para praticar
 
 <p align="center"> 
     <a href="#Tecnologias"> Tecnologias ° </a>
-    <a href="#Desenvolvimento"> Desenvolvimento ° </a>
+    <a href="#Desenvolvimento"> Desenvolvimento  </a>
     
 </p>
 
