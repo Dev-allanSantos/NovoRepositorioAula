@@ -6,6 +6,7 @@ Teste para praticar
 <p align="center"> 
     <a href="#Tecnologias"> Tecnologias ° </a>
     <a href="#Desenvolvimento"> Desenvolvimento  </a>
+    <a href="#Página"> ° Página  </a>
     
 </p>
 
@@ -47,4 +48,4 @@ note a adição do : **Link css e  html**
 
 ## Página
 
-confira a página web feita nesse repositório : [](https://allan-gh.github.io/NovoRepositorioAula/site/Index.html)
+confira a página web feita nesse repositório : [página](https://allan-gh.github.io/NovoRepositorioAula/site/Index.html)
