@@ -45,4 +45,6 @@ Foi criado duas merges , conteudo (simular uma equipe responsável pelo html) e 
 
 note a adição do : **Link css e  html**
 
+## Página
 
+confira a página web feita nesse repositório : [](https://allan-gh.github.io/NovoRepositorioAula/site/Index.html)
